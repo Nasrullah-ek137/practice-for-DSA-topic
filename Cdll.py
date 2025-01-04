@@ -1,3 +1,4 @@
+# Circular doubly linked list..
 class Node:
 
     def __init__(self,item=None,prev=None,next=None):
